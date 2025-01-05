@@ -4,4 +4,4 @@ This is a simple code for checking randomness.
 
 [Option 2] Function highest_counter() will execute randomness() inside a loop and only print the results (which is the number of endless tries until the first generated random number matches the second generated random number) that are higher than the previous. You will also see how much time has passed since the execution. It takes less than one second to reach 1000, while from 1000 it takes significant amount of time. Theoretically, there is no end to this calculation. In other words, there is a possibility that first generated random number and second generated random number never becomes identical. 
 
-[Option 3] This will loop randomness() and print the outputs without doing any other operations with it. You will see that displayed numbers are usually around 1 to 100. Numbers that are higher than 1000 will be colored in yellow.\n
+[Option 3] This will loop randomness() and print the outputs without doing any other operations with it.
